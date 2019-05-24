@@ -3,7 +3,7 @@
 Here are the steps to create a new project and start making some modifications :
 * Create repository including a README(.md) file
 * Create a branch to start modifications
-** Open a pull request
+* Open a pull request
 * Compare and check if modifications seem good
 * Create a pull request
 * Merge the pull request
