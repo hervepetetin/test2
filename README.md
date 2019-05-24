@@ -1,11 +1,15 @@
-# test2
+# Tutorial GitHub
 
-This is a test, here are the steps :
-* create repository (including README)
-* create a branch to start working on
+Here are the steps to create a new project and start making some modifications :
+* Create repository including a README(.md) file
+* Create a branch to start modifications
+** Open a pull request
+* Compare and check if modifications seem good
+* Create a pull request
+* Merge the pull request
 
 
-
+You can include some code :
 ```shell
 [bsc32883@p9login1 opmospy_greasy]$ head logtop 
  | ==============================================
